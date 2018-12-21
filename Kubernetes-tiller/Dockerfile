@@ -1,2 +1,0 @@
-FROM gcr.io/kubernetes-helm/tiller@sha256:df7f227fa722afc4931c912c1cad2c47856ec94f4d052ccceebcb16dd483dad8
-MAINTAINER chenkaihong <bearbearxinxiang@163.com>
